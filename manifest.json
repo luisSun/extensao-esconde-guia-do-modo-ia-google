@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Esconde Modo IA Google",
+    "version": "1.0",
+    "description": "Ativa ou desativa a ocultação da guia Modo IA na página do Google",
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://www.google.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
