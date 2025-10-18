@@ -75,5 +75,3 @@ Esta extensão está licenciada sob a **GNU GENERAL PUBLIC LICENSE v3.0**.
 
 ![Licença](https://img.shields.io/badge/License-GPLv3-blue.svg)
 [Saiba mais sobre a GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
-
-```
