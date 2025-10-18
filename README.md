@@ -40,6 +40,12 @@ git clone https://github.com/luisSun/extensao-esconde-guia-do-modo-ia-google.git
 cd extensao-esconde-guia-do-modo-ia-google
 ````
 
+### 1️⃣ Alternativa: Baixar o arquivo .zip
+
+1. Baixe o arquivo `.zip`.  
+2. Descompacte o arquivo `.zip`.
+
+
 ### 2️⃣ Carregar no Chrome
 
 1. Abra o Chrome e vá para `chrome://extensions/`.
